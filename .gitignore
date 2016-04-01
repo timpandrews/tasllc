@@ -1,0 +1,11 @@
+
+.idea/
+
+*.pyc
+
+static_cdn/
+
+media_cdn/
+
+tasllcVenv/
+
